@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2081604149263978839",
+    "created_at": "2026-07-27T04:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081604417208664322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2078720795774443520",
+          "start": 0,
+          "username": "huizxlk1215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081604417208664322",
+    "in_reply_to_user_id": "2078720795774443520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081604149263978839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huizxlk1215 压缩饼干不是更省事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2081604149263978839",
+        "created_at": "2026-07-27T04:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081604417208664322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2078720795774443520",
+              "start": 0,
+              "username": "huizxlk1215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081604417208664322",
+        "in_reply_to_user_id": "2078720795774443520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081604149263978839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huizxlk1215 压缩饼干不是更省事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078720795774443520",
+        "conversation_id": "2081604149263978839",
+        "created_at": "2026-07-27T04:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081604149263978839"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081604149263978839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咪知道一天20怎么活了喵先买个起酥面包吃着吃着噎挺配个核桃牛奶吃完来盒红塔山剩下4块钱买8个泡泡糖嚼着吃喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 384,
+          "like_count": 24205,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1265
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-19T06:00:26.000Z",
+        "description": "这里是咪主要使用的账号喵\n男猫 出生在惠东喵\n生产日期2011.12.09喵\nNGL:https://t.co/1C8InJ2McF\nTG:https://t.co/25GUniUuhd\nQQ:2861849101\n喜欢听术力口喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huizxlk",
+                "end": 66,
+                "expanded_url": "https://ngl.link/huizxlk",
+                "start": 43,
+                "url": "https://t.co/1C8InJ2McF"
+              },
+              {
+                "display_url": "t.me/huizxlk",
+                "end": 93,
+                "expanded_url": "http://t.me/huizxlk",
+                "start": 70,
+                "url": "https://t.co/25GUniUuhd"
+              }
+            ]
+          }
+        },
+        "id": "2078720795774443520",
+        "name": "huizxlk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078722441980022784/AVyhvQTM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 61,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "huizxlk1215",
+        "verified": false
+      }
+    ]
+  }
+}
