@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082031512632111104",
+        "3_2082031512598560768"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082031517778497612",
+    "created_at": "2026-07-28T09:12:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:12:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082031517778497612"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEhm0okFcN",
+          "end": 50,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2082031517778497612/photo/1",
+          "media_key": "3_2082031512632111104",
+          "start": 27,
+          "url": "https://t.co/yEhm0okFcN"
+        },
+        {
+          "display_url": "pic.x.com/yEhm0okFcN",
+          "end": 50,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2082031517778497612/photo/1",
+          "media_key": "3_2082031512598560768",
+          "start": 27,
+          "url": "https://t.co/yEhm0okFcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082031517778497612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又有进步了有感覺吗\n侠隐佐助畫起來好累，休息一阵子了 https://t.co/yEhm0okFcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082031512632111104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTcoTGbMAAVN-I.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082031512598560768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTcoS-bQAAau69.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082031512632111104",
+            "3_2082031512598560768"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T09:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082031517778497612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEhm0okFcN",
+              "end": 50,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2082031517778497612/photo/1",
+              "media_key": "3_2082031512632111104",
+              "start": 27,
+              "url": "https://t.co/yEhm0okFcN"
+            },
+            {
+              "display_url": "pic.x.com/yEhm0okFcN",
+              "end": 50,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2082031517778497612/photo/1",
+              "media_key": "3_2082031512598560768",
+              "start": 27,
+              "url": "https://t.co/yEhm0okFcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082031517778497612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又有进步了有感覺吗\n侠隐佐助畫起來好累，休息一阵子了 https://t.co/yEhm0okFcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 385,
+          "like_count": 24155,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

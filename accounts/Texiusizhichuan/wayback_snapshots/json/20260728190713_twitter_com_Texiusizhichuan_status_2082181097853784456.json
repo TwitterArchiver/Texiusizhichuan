@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082031517778497612",
+    "created_at": "2026-07-28T19:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082181097853784456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058176375228604416",
+          "start": 0,
+          "username": "kawainotoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082181097853784456",
+    "in_reply_to_user_id": "2058176375228604416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082181027360076231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawainotoo 谢谢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T19:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082181097853784456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058176375228604416",
+              "start": 0,
+              "username": "kawainotoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082181097853784456",
+        "in_reply_to_user_id": "2058176375228604416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082181027360076231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawainotoo 谢谢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058176375228604416",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T19:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082181027360076231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082181027360076231",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082031517778497612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 画的很帅！不过线条有一点点僵硬~加油(〃∇〃)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 385,
+          "like_count": 24167,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1276
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-23T13:23:07.000Z",
+        "description": "想要交友 可以互｜平时喜欢画画yy ｜可以私信聊天~｜q🚪20🥕v🚪52🥕~投喂码在置顶评论嗷(◍ ´꒳` ◍)｜主人のすべての愛が欲しい",
+        "id": "2058176375228604416",
+        "name": "TOO",
+        "pinned_tweet_id": "2064644058384126371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058177065531445248/zqieJdHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 78,
+          "like_count": 836,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 257
+        },
+        "url": "",
+        "username": "kawainotoo",
+        "verified": false
+      }
+    ]
+  }
+}

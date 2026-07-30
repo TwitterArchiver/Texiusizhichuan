@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082031517778497612",
+    "created_at": "2026-07-28T18:06:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:06:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082165863541874702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055995252771860480",
+          "start": 0,
+          "username": "qxq5ho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082165863541874702",
+    "in_reply_to_user_id": "2055995252771860480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082128769821843585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qxq5ho 逆天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T18:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082165863541874702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055995252771860480",
+              "start": 0,
+              "username": "qxq5ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082165863541874702",
+        "in_reply_to_user_id": "2055995252771860480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128769821843585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qxq5ho 逆天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055995252771860480",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T15:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082128769821843585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082128769821843585",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082031517778497612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 🦅将死之人无须报上姓名🦅你的小命我收下了🦅惊蛰破阵曲😡 炎煌燎云破😡飞鸟折白梅😡 踏焰追云纵😡疾电穿云刺 😡燎原十八拍😡千鸟千本😡炎煌云水剑😡天守御劫    😡双剑齐鸣😡雷麟碎空闪 😡劫火烙八荒😡踏日裁岳😡裂云分霄😡胜你不须第二剑🦅拔剑吧 如果还有直面我的勇气🦅败在我的剑下绝非耻辱😤😤😤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 385,
+          "like_count": 24165,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1275
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-17T12:54:55.000Z",
+        "description": "07/在校高中生/成分复杂/基本无雷点/接陪聊陪玩/可以约线下/私信只要没被X隐藏我都会回/欢迎互fo扩列/提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%BA%A2%E5%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%BA%A2%E5%8F%B6",
+                "start": 0,
+                "url": "https://t.co/7BHkcxrOoI"
+              }
+            ]
+          }
+        },
+        "id": "2055995252771860480",
+        "location": "你心里",
+        "name": "🍁红叶",
+        "pinned_tweet_id": "2074857987387392047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081275270716334080/_Wo55q9z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 387,
+          "like_count": 7655,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/7BHkcxrOoI",
+        "username": "qxq5ho",
+        "verified": false
+      }
+    ]
+  }
+}

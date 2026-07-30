@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2080685858970333566",
+    "created_at": "2026-07-26T10:22:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:22:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081324290679742660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835719269314711552",
+          "start": 0,
+          "username": "520saber17265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081324290679742660",
+    "in_reply_to_user_id": "1835719269314711552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081320134334185584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520saber17265 谢谢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2080685858970333566",
+        "created_at": "2026-07-26T10:22:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081324290679742660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835719269314711552",
+              "start": 0,
+              "username": "520saber17265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081324290679742660",
+        "in_reply_to_user_id": "1835719269314711552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081320134334185584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520saber17265 谢谢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835719269314711552",
+        "conversation_id": "2080685858970333566",
+        "created_at": "2026-07-26T10:06:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:06:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081320134334185584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081320134334185584",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080685858970333566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 我去这么牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 387,
+          "like_count": 24203,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 1262
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-16T16:36:01.000Z",
+        "description": "ow白金4探底选手，是拉玛刹雾子小手子😭（我是傻逼二次元🤓）3400实力选手，是蛇兜的主人，植物人百豪纲哈基鸣仙人兜大手子胖宝宝虎皮小手子，可代段位武斗国标🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hyrz.qq.com/m/m202003/",
+                "end": 23,
+                "expanded_url": "https://hyrz.qq.com/m/m202003/",
+                "start": 0,
+                "url": "https://t.co/t9QinYcJdJ"
+              }
+            ]
+          }
+        },
+        "id": "1835719269314711552",
+        "name": "魔方加强仙人兜",
+        "pinned_tweet_id": "2066907857057108266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033943111391711235/xScZcccc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 141,
+          "like_count": 3655,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/t9QinYcJdJ",
+        "username": "520saber17265",
+        "verified": false
+      }
+    ]
+  }
+}
