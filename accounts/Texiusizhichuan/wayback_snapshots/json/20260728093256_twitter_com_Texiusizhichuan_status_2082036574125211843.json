@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082031517778497612",
+    "created_at": "2026-07-28T09:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T10:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082036574125211843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697293328352686080",
+          "start": 0,
+          "username": "wentj390787"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082036574125211843",
+    "in_reply_to_user_id": "1697293328352686080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082036451362119745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wentj390787 谢谢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T09:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082036574125211843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697293328352686080",
+              "start": 0,
+              "username": "wentj390787"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082036574125211843",
+        "in_reply_to_user_id": "1697293328352686080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082036451362119745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wentj390787 谢谢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697293328352686080",
+        "conversation_id": "2082031517778497612",
+        "created_at": "2026-07-28T09:32:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:32:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082036451362119745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082036451362119745",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082031517778497612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 很用心了看起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 385,
+          "like_count": 24167,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-31T17:02:41.000Z",
+        "description": "B站某十万粉丝博主(匿名) ，二次元中登（对子供向也略有研究），锐评家，经常发点疯解读网络热点。互fo请私信 。喜欢一切内心善良的人。",
+        "id": "1697293328352686080",
+        "location": "在你心里",
+        "name": "一起来吃辣条鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082007758245945344/ohD_w7qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 786,
+          "like_count": 884,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1030
+        },
+        "url": "",
+        "username": "wentj390787",
+        "verified": true
+      }
+    ]
+  }
+}

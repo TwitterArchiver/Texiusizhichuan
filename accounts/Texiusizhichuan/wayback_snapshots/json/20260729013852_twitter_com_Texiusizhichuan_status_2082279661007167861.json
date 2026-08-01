@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082240971069350067",
+    "created_at": "2026-07-29T01:38:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T02:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082279661007167861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686914633314013184",
+          "start": 0,
+          "username": "KTD593yug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082279661007167861",
+    "in_reply_to_user_id": "1686914633314013184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082279596272263343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KTD593yug 谢谢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082240971069350067",
+        "created_at": "2026-07-29T01:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082279661007167861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686914633314013184",
+              "start": 0,
+              "username": "KTD593yug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082279661007167861",
+        "in_reply_to_user_id": "1686914633314013184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082279596272263343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTD593yug 谢谢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "conversation_id": "2082240971069350067",
+        "created_at": "2026-07-29T01:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T02:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082279596272263343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082279596272263343",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082240971069350067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 上色后好看喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 386,
+          "like_count": 24242,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 162,
+          "like_count": 1827,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}

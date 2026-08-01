@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082240966619226112",
+        "3_2082240966610821120"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082240971069350067",
+    "created_at": "2026-07-28T23:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T00:05:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082240971069350067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SOihV0swC8",
+          "end": 46,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2082240971069350067/photo/1",
+          "media_key": "3_2082240966619226112",
+          "start": 23,
+          "url": "https://t.co/SOihV0swC8"
+        },
+        {
+          "display_url": "pic.x.com/SOihV0swC8",
+          "end": 46,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2082240971069350067/photo/1",
+          "media_key": "3_2082240966610821120",
+          "start": 23,
+          "url": "https://t.co/SOihV0swC8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082240971069350067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们，是稍微上了点颜色的好看还是原装好看啊 https://t.co/SOihV0swC8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082240966619226112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWbIIAa4AAJefm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082240966610821120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOWbIH-aoAAVlkE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082240966619226112",
+            "3_2082240966610821120"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082240971069350067",
+        "created_at": "2026-07-28T23:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T00:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082240971069350067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOihV0swC8",
+              "end": 46,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2082240971069350067/photo/1",
+              "media_key": "3_2082240966619226112",
+              "start": 23,
+              "url": "https://t.co/SOihV0swC8"
+            },
+            {
+              "display_url": "pic.x.com/SOihV0swC8",
+              "end": 46,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2082240971069350067/photo/1",
+              "media_key": "3_2082240966610821120",
+              "start": 23,
+              "url": "https://t.co/SOihV0swC8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082240971069350067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，是稍微上了点颜色的好看还是原装好看啊 https://t.co/SOihV0swC8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 386,
+          "like_count": 24202,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1277
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

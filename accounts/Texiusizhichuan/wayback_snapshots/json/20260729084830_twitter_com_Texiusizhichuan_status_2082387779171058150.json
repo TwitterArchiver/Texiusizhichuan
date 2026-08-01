@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082387779171058150",
+    "created_at": "2026-07-29T08:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T09:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082387779171058150"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E5%BF%92%E4%B…",
+          "end": 28,
+          "expanded_url": "https://ngl.link/%E5%BF%92%E4%BF%AE%E6%96%AF1",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2078804408771747840/fFj4anLu?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2078804408771747840/fFj4anLu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 5,
+          "status": 200,
+          "title": "@忒修斯: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E5%BF%92%E4%BF%AE%E6%96%AF1",
+          "url": "https://t.co/PRicAy8pNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082387779171058150",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "+666\nhttps://t.co/PRicAy8pNB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082387779171058150",
+        "created_at": "2026-07-29T08:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082387779171058150"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E5%BF%92%E4%B…",
+              "end": 28,
+              "expanded_url": "https://ngl.link/%E5%BF%92%E4%BF%AE%E6%96%AF1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2078804408771747840/fFj4anLu?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2078804408771747840/fFj4anLu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 5,
+              "status": 200,
+              "title": "@忒修斯: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E5%BF%92%E4%BF%AE%E6%96%AF1",
+              "url": "https://t.co/PRicAy8pNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082387779171058150",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "+666\nhttps://t.co/PRicAy8pNB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 389,
+          "like_count": 24372,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1281
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}
