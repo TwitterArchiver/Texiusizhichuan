@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089797798359334912",
+        "3_2089797798342672384"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2089797803673588147",
+    "created_at": "2026-08-18T19:33:17.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089797803673588147"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJOZWfqkpl",
+          "end": 63,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2089797803673588147/photo/1",
+          "media_key": "3_2089797798359334912",
+          "start": 40,
+          "url": "https://t.co/dJOZWfqkpl"
+        },
+        {
+          "display_url": "pic.x.com/dJOZWfqkpl",
+          "end": 63,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2089797803673588147/photo/1",
+          "media_key": "3_2089797798342672384",
+          "start": 40,
+          "url": "https://t.co/dJOZWfqkpl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089797803673588147",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089797798359334912"
+      },
+      {
+        "media_key": "3_2089797798342672384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这玩意比小南好画多了\n如果这个点赞能超过五十个我就把之前画的不咋地的小南放出来 https://t.co/dJOZWfqkpl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2089797798359334912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQB0Bn-aAAAsqLV.jpg",
+        "width": 1338
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089797798342672384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQB0Bn6bwAAXf_0.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089797798359334912",
+            "3_2089797798342672384"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2089797803673588147",
+        "created_at": "2026-08-18T19:33:17.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089797803673588147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJOZWfqkpl",
+              "end": 63,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2089797803673588147/photo/1",
+              "media_key": "3_2089797798359334912",
+              "start": 40,
+              "url": "https://t.co/dJOZWfqkpl"
+            },
+            {
+              "display_url": "pic.x.com/dJOZWfqkpl",
+              "end": 63,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2089797803673588147/photo/1",
+              "media_key": "3_2089797798342672384",
+              "start": 40,
+              "url": "https://t.co/dJOZWfqkpl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089797803673588147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089797798359334912"
+          },
+          {
+            "media_key": "3_2089797798342672384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意比小南好画多了\n如果这个点赞能超过五十个我就把之前画的不咋地的小南放出来 https://t.co/dJOZWfqkpl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2089797803673588147",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 406,
+          "like_count": 24370,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1351
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

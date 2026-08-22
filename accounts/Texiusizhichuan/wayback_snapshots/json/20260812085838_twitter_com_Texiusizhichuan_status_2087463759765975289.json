@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2087446648331124893",
+    "created_at": "2026-08-12T08:58:38.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087463759765975289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1734906028087721984",
+          "start": 0,
+          "username": "shantianliang08"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087463759765975289",
+    "in_reply_to_user_id": "1734906028087721984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087461265392472096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shantianliang08 逆天，腌入味了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2087446648331124893",
+        "created_at": "2026-08-12T08:58:38.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087463759765975289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1734906028087721984",
+              "start": 0,
+              "username": "shantianliang08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087463759765975289",
+        "in_reply_to_user_id": "1734906028087721984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087461265392472096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shantianliang08 逆天，腌入味了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734906028087721984",
+        "conversation_id": "2087446648331124893",
+        "created_at": "2026-08-12T08:48:43.000Z",
+        "display_text_range": [
+          17,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:48:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087461265392472096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087461265392472096",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087460396773126321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 那必须多吃点保健品了😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2087463759765975289",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 396,
+          "like_count": 24385,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T12:00:15.000Z",
+        "description": "/无政治立场/喜欢日常📷/友🏳️‍🌈🏳️‍⚧️/E社玩家/少女乐队/互fo\n好朋友：@heweidaootto @NMD_2012 @yeliqin8964\n请勿在我帖子下发表 关于政治言论\n优先群体：08同龄人\n前身：山田凉official @shantian1944\nsteam好友代码：1527038776",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 42,
+                "username": "heweidaootto"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "NMD_2012"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "yeliqin8964"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "shantian1944"
+              }
+            ]
+          }
+        },
+        "id": "1734906028087721984",
+        "is_identity_verified": false,
+        "location": "hello pig god",
+        "most_recent_tweet_id": "2087461265392472096",
+        "name": "新汕田凉official",
+        "pinned_tweet_id": "2063678689397940505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734906028087721984/1780739339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063140065166168064/mBj5IakM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 317,
+          "like_count": 1828,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "shantianliang08",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

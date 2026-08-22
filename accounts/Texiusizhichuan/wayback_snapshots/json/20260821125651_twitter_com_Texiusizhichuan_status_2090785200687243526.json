@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2090478163927454090",
+    "created_at": "2026-08-21T12:56:51.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T13:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090785200687243526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2009174908581134336",
+          "start": 0,
+          "username": "cswxiaowei6302"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090785200687243526",
+    "in_reply_to_user_id": "2009174908581134336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090767337381339546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cswxiaowei6302 想被嘲讽了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2090478163927454090",
+        "created_at": "2026-08-21T12:56:51.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090785200687243526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2009174908581134336",
+              "start": 0,
+              "username": "cswxiaowei6302"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090785200687243526",
+        "in_reply_to_user_id": "2009174908581134336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090767337381339546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cswxiaowei6302 想被嘲讽了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009174908581134336",
+        "conversation_id": "2090478163927454090",
+        "created_at": "2026-08-21T11:45:52.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090767337381339546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090767337381339546",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090478163927454090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 😱\n漂泊带土还在追我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2090785200687243526",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 404,
+          "like_count": 24384,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-08T08:06:56.000Z",
+        "description": "哈老师颜控，内容与哈耶克思想关系不大你注意（我反而对他的思想持批判态度）😤武装保卫自由市场",
+        "id": "2009174908581134336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090767337381339546",
+        "name": "网友哈顺克",
+        "pinned_tweet_id": "2085439769493090427",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2009174908581134336/1777388009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085429495532814336/WMR2_iMY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 241,
+          "like_count": 14063,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "cswxiaowei6302",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

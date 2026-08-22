@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2081554264783204804",
+    "created_at": "2026-08-02T11:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083882084284944827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048047043600617472",
+          "start": 0,
+          "username": "Ainoz_a148"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083882084284944827",
+    "in_reply_to_user_id": "2048047043600617472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083869600538841387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ainoz_a148 谢谢呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2081554264783204804",
+        "created_at": "2026-08-02T11:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083882084284944827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048047043600617472",
+              "start": 0,
+              "username": "Ainoz_a148"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083882084284944827",
+        "in_reply_to_user_id": "2048047043600617472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083869600538841387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ainoz_a148 谢谢呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048047043600617472",
+        "conversation_id": "2081554264783204804",
+        "created_at": "2026-08-02T10:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083869600538841387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083869600538841387",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083866366495560051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 好哦&gt;o&lt;最看好老师了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 392,
+          "like_count": 24452,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1295
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-25T14:32:14.000Z",
+        "description": "「奮六世之餘烈」｜浙江-杭州府｜2009，現高二｜我有政冷淡｜窮盡一生的是向未來的無盡展望",
+        "id": "2048047043600617472",
+        "location": "吳越國",
+        "name": "決明子Ainoz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083865792500932608/zay_eBDW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 90,
+          "like_count": 1356,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "Ainoz_a148",
+        "verified": false
+      }
+    ]
+  }
+}

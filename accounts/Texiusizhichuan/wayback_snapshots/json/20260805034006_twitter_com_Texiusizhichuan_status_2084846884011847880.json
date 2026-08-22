@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2084651682626175127",
+    "created_at": "2026-08-05T03:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T04:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084846884011847880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774811478480101377",
+          "start": 0,
+          "username": "Yuusea0817"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084846884011847880",
+    "in_reply_to_user_id": "1774811478480101377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084682996934951191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuusea0817 害，我也是随便画画了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2084651682626175127",
+        "created_at": "2026-08-05T03:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084846884011847880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774811478480101377",
+              "start": 0,
+              "username": "Yuusea0817"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084846884011847880",
+        "in_reply_to_user_id": "1774811478480101377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084682996934951191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuusea0817 害，我也是随便画画了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774811478480101377",
+        "conversation_id": "2084651682626175127",
+        "created_at": "2026-08-04T16:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084682996934951191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084682996934951191",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084651682626175127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 好羡慕会画画的人😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 386,
+          "like_count": 24425,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1311
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-01T14:50:25.000Z",
+        "description": "非广告账号有fo必回\n已飞0国|清华北大没考 |诺贝尔奖觊觎者|华籍华人|国家级身份证持有者\n精通简体中文（中国）、简体中文（马来西亚）、简体中文（新加坡）、繁體中文（中國香港）、繁體中文（中國澳門）、正體中文（中華民國台灣）、English (UK), English (US) 等多種语言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "genyuu.com",
+                "end": 23,
+                "expanded_url": "https://www.genyuu.com/",
+                "start": 0,
+                "url": "https://t.co/2OdKMGE53u"
+              }
+            ]
+          }
+        },
+        "id": "1774811478480101377",
+        "location": "玄幽帝国",
+        "name": "幽汐~（有fo必回版）（上学ing）🇨🇳🇹🇼🇭🇰🇲🇴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051293706507169792/3xL8uExO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 120,
+          "like_count": 3444,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/2OdKMGE53u",
+        "username": "Yuusea0817",
+        "verified": false
+      }
+    ]
+  }
+}

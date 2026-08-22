@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2085300429315842228",
+    "created_at": "2026-08-06T13:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085360771391984005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1830260222180646912",
+          "start": 0,
+          "username": "Ep1pQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085360771391984005",
+    "in_reply_to_user_id": "1830260222180646912",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085300429315842228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ep1pQAQ 笨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2085300429315842228",
+        "created_at": "2026-08-06T13:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085360771391984005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1830260222180646912",
+              "start": 0,
+              "username": "Ep1pQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085360771391984005",
+        "in_reply_to_user_id": "1830260222180646912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085300429315842228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ep1pQAQ 笨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830260222180646912",
+        "conversation_id": "2085300429315842228",
+        "created_at": "2026-08-06T09:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085300429315842228"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085300429315842228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 155,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个账号以后就决定发布一些关于我新生活的日常了，不再发布负面的内容了...不想大家被番茄的那些情绪所影响，一定要开开心心的..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 388,
+          "like_count": 24421,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1312
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T15:03:53.000Z",
+        "description": "喂喂？让你视奸我了吗！等等...你说你要加入ep的无时无刻的无聊大冒险喵？（叉腰）那就勉为其难的同意你入伙了...哼哼！（得意）\n简单自我介绍一下吧—\nINFP-A/是个经自我专业审批后选择个性化内分泌调节方案的MTF🍬！/情绪调酒师，来者不拒，欢迎私信，希望能到1000fo...（当前入伙人数194！/1000）",
+        "id": "1830260222180646912",
+        "name": "番茄摞EP🍮🍥🏳️‍⚧",
+        "pinned_tweet_id": "2064967397908611328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059240653293518848/PV6Psq4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 153,
+          "like_count": 871,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "Ep1pQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

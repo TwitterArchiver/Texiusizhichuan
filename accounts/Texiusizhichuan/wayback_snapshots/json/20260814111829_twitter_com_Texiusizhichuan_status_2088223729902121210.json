@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2087879558691446969",
+    "created_at": "2026-08-14T11:18:29.000Z",
+    "display_text_range": [
+      31,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T12:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088223729902121210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2080302178800115712",
+          "start": 0,
+          "username": "wocaonibivpk"
+        },
+        {
+          "end": 30,
+          "id": "1900202897738252288",
+          "start": 14,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088223729902121210",
+    "in_reply_to_user_id": "2080302178800115712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088203671448461401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wocaonibivpk @HGangmakot97631 啥玩意，在群里面我不是问了你嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2087879558691446969",
+        "created_at": "2026-08-14T11:18:29.000Z",
+        "display_text_range": [
+          31,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088223729902121210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2080302178800115712",
+              "start": 0,
+              "username": "wocaonibivpk"
+            },
+            {
+              "end": 30,
+              "id": "1900202897738252288",
+              "start": 14,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088223729902121210",
+        "in_reply_to_user_id": "2080302178800115712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088203671448461401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wocaonibivpk @HGangmakot97631 啥玩意，在群里面我不是问了你嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080302178800115712",
+        "conversation_id": "2087879558691446969",
+        "created_at": "2026-08-14T09:58:46.000Z",
+        "display_text_range": [
+          34,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T10:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088203671448461401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            },
+            {
+              "end": 33,
+              "id": "1900202897738252288",
+              "start": 17,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088203671448461401",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088178507654582299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan @HGangmakot97631 都不关心我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2088223729902121210",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 399,
+          "like_count": 24398,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1333
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T14:45:20.000Z",
+        "description": "闲",
+        "id": "2080302178800115712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088203671448461401",
+        "name": "mengwang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080302178800115712/1784818086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080303502467960832/0PRQMe1k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "wocaonibivpk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "Lost Soul Journey\n/🏳️‍⚧️MTFtx/HRT始于  2025.10.06/止于2025.10.31\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "is_identity_verified": false,
+        "location": "湖北荆门下属某个地方",
+        "most_recent_tweet_id": "2088109568161390594",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1900202897738252288/1782894762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 695,
+          "like_count": 9960,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1711
+        },
+        "url": "",
+        "username": "HGangmakot97631",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

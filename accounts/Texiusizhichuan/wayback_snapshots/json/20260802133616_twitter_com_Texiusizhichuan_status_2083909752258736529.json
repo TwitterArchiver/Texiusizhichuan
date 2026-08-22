@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083909282488360960",
+        "3_2083909282450546688"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083909752258736529",
+    "created_at": "2026-08-02T13:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083909752258736529"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h9rHYzvoYt",
+          "end": 35,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2083909752258736529/video/1",
+          "media_key": "13_2083909282488360960",
+          "start": 12,
+          "url": "https://t.co/h9rHYzvoYt"
+        },
+        {
+          "display_url": "pic.x.com/h9rHYzvoYt",
+          "end": 35,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2083909752258736529/video/1",
+          "media_key": "3_2083909282450546688",
+          "start": 12,
+          "url": "https://t.co/h9rHYzvoYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083909752258736529",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有一个明天发，下机了 https://t.co/h9rHYzvoYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 154591,
+        "height": 1640,
+        "media_key": "13_2083909282488360960",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083909282488360960/img/opjXilAIrJrtqIVb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083909282488360960/pl/U5ty4maACcWKp0n4.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083909282488360960/vid/avc1/518x360/ehd_r-N1KFTd2R1A.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083909282488360960/vid/avc1/2360x1640/SvCjy4npa7gj1tx8.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083909282488360960/vid/avc1/388x270/ycWE6-yoV6ViJruc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083909282488360960/vid/avc1/1036x720/vI3sGKOrLNC7-FeC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083909282488360960/vid/avc1/1554x1080/nbII4XVz7V1tOJMn.mp4"
+          }
+        ],
+        "width": 2360
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2083909282450546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuIc4yaoAAH-5Q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083909282488360960",
+            "3_2083909282450546688"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083909752258736529",
+        "created_at": "2026-08-02T13:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083909752258736529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h9rHYzvoYt",
+              "end": 35,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2083909752258736529/video/1",
+              "media_key": "13_2083909282488360960",
+              "start": 12,
+              "url": "https://t.co/h9rHYzvoYt"
+            },
+            {
+              "display_url": "pic.x.com/h9rHYzvoYt",
+              "end": 35,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2083909752258736529/video/1",
+              "media_key": "3_2083909282450546688",
+              "start": 12,
+              "url": "https://t.co/h9rHYzvoYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083909752258736529",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有一个明天发，下机了 https://t.co/h9rHYzvoYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 384,
+          "like_count": 24407,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1297
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

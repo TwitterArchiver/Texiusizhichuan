@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2089798346403942404",
+    "created_at": "2026-08-18T19:35:27.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T20:35:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089798346403942404"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lxgy1024/statu…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/lxgy1024/status/2089779401634594870",
+          "start": 110,
+          "url": "https://t.co/oNk3MFiJX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089798346403942404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089779401634594870",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我终于有对象了喵！！！！ \n居然在七夕前谈上了喵！！！！ \n哎我对象顶美喵woc 吃醋的样子好可爱喵 我爱死了喵 呜呜呜呜好喜欢喵 好美好帅喵 呜呜呜终于体验到谈恋爱的感觉了喵    \n你们不用复制喵。我是真有对象喵。 https://t.co/oNk3MFiJX2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2089798346403942404",
+        "created_at": "2026-08-18T19:35:27.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T20:35:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089798346403942404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lxgy1024/statu…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/lxgy1024/status/2089779401634594870",
+              "start": 110,
+              "url": "https://t.co/oNk3MFiJX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089798346403942404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089779401634594870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我终于有对象了喵！！！！ \n居然在七夕前谈上了喵！！！！ \n哎我对象顶美喵woc 吃醋的样子好可爱喵 我爱死了喵 呜呜呜呜好喜欢喵 好美好帅喵 呜呜呜终于体验到谈恋爱的感觉了喵    \n你们不用复制喵。我是真有对象喵。 https://t.co/oNk3MFiJX2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013553953041235968",
+        "conversation_id": "2089779401634594870",
+        "created_at": "2026-08-18T18:20:10.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T19:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089779401634594870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huantim7/statu…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/huantim7/status/2089674197454979431",
+              "start": 110,
+              "url": "https://t.co/GJEZ9aF5Ls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089779401634594870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089674197454979431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我终于有对象了喵！！！！ \n居然在七夕前谈上了喵！！！！ \n哎我对象顶美喵woc 吃醋的样子好可爱喵 我爱死了喵 呜呜呜呜好喜欢喵 好美好帅喵 呜呜呜终于体验到谈恋爱的感觉了喵    \n你们不用复制喵。我是真有对象喵。 https://t.co/GJEZ9aF5Ls"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2089798346403942404",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 406,
+          "like_count": 24372,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1352
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-20T10:07:46.000Z",
+        "description": "より良い物語、私たちの最高のもの、全世界が出会うのを待っています。\n最喜欢的妹妹@sheepahead\nMTF ( maybe )，持证含糖，欢迎互fo \nOIer ( was )，坐标杭州，欢迎来面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 40,
+                "username": "sheepahead"
+              }
+            ]
+          }
+        },
+        "id": "2013553953041235968",
+        "is_identity_verified": false,
+        "location": "Shinjuku-ku, Tokyo",
+        "most_recent_tweet_id": "2089779401634594870",
+        "name": "赶月めいり🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013553953041235968/1768961165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077384843563012096/I_j8ylkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 254,
+          "like_count": 1092,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 317
+        },
+        "url": "",
+        "username": "lxgy1024",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

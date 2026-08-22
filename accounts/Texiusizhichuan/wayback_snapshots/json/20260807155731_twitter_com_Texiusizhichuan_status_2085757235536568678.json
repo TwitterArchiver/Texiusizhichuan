@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085757229593214976"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2085757235536568678",
+    "created_at": "2026-08-07T15:57:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085757235536568678"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9qL3qjmfEv",
+          "end": 51,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2085757235536568678/photo/1",
+          "media_key": "3_2085757229593214976",
+          "start": 28,
+          "url": "https://t.co/9qL3qjmfEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085757235536568678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶这个带土带面具穿长袍就是好画，就是这个上色要搞死我了 https://t.co/9qL3qjmfEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085757229593214976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIZJkWbQAAq_2o.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085757229593214976"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2085757235536568678",
+        "created_at": "2026-08-07T15:57:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085757235536568678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9qL3qjmfEv",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2085757235536568678/photo/1",
+              "media_key": "3_2085757229593214976",
+              "start": 28,
+              "url": "https://t.co/9qL3qjmfEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085757235536568678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶这个带土带面具穿长袍就是好画，就是这个上色要搞死我了 https://t.co/9qL3qjmfEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 393,
+          "like_count": 24424,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090315781611606016"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2090315788419019030",
+    "created_at": "2026-08-20T05:51:34.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T06:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090315788419019030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3XM3RG8WUG",
+          "end": 37,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2090315788419019030/photo/1",
+          "media_key": "3_2090315781611606016",
+          "start": 14,
+          "url": "https://t.co/3XM3RG8WUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090315788419019030",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2090315781611606016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们，勾线是精髓有感覺嗎 https://t.co/3XM3RG8WUG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090315781611606016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJLIN9aUAA_ZSe.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090315781611606016"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2090315788419019030",
+        "created_at": "2026-08-20T05:51:34.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T06:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090315788419019030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3XM3RG8WUG",
+              "end": 37,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2090315788419019030/photo/1",
+              "media_key": "3_2090315781611606016",
+              "start": 14,
+              "url": "https://t.co/3XM3RG8WUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090315788419019030",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090315781611606016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，勾线是精髓有感覺嗎 https://t.co/3XM3RG8WUG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2090315788419019030",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 398,
+          "like_count": 24364,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

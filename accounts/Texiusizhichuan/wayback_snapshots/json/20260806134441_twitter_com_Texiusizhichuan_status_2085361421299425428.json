@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085361416438190081"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2085361421299425428",
+    "created_at": "2026-08-06T13:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T14:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085361421299425428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6fIu7U92n2",
+          "end": 104,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2085361421299425428/photo/1",
+          "media_key": "3_2085361416438190081",
+          "start": 81,
+          "url": "https://t.co/6fIu7U92n2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085361421299425428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶你们不爱聊天的别来了，我会在里面打电话然后要求打游戏啊聊天啊什么的，你们要是受不了就别加进来了，不爱聊天加群来干啥，当潜水员吗\n要进来的喜欢聊天的和我互关的来 https://t.co/6fIu7U92n2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085361416438190081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCxKNcakAEceZ3.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085361416438190081"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2085361421299425428",
+        "created_at": "2026-08-06T13:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085361421299425428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6fIu7U92n2",
+              "end": 104,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2085361421299425428/photo/1",
+              "media_key": "3_2085361416438190081",
+              "start": 81,
+              "url": "https://t.co/6fIu7U92n2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085361421299425428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶你们不爱聊天的别来了，我会在里面打电话然后要求打游戏啊聊天啊什么的，你们要是受不了就别加进来了，不爱聊天加群来干啥，当潜水员吗\n要进来的喜欢聊天的和我互关的来 https://t.co/6fIu7U92n2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 505,
+          "following_count": 388,
+          "like_count": 24422,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1313
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

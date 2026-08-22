@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083508365897138176",
+        "3_2083508365867855872"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083508846459543996",
+    "created_at": "2026-08-01T11:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083508846459543996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q2nIz6RMAv",
+          "end": 28,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2083508846459543996/video/1",
+          "media_key": "13_2083508365897138176",
+          "start": 5,
+          "url": "https://t.co/Q2nIz6RMAv"
+        },
+        {
+          "display_url": "pic.x.com/Q2nIz6RMAv",
+          "end": 28,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2083508846459543996/video/1",
+          "media_key": "3_2083508365867855872",
+          "start": 5,
+          "url": "https://t.co/Q2nIz6RMAv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083508846459543996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "养老成功 https://t.co/Q2nIz6RMAv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 161613,
+        "height": 1640,
+        "media_key": "13_2083508365897138176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083508365897138176/img/O2ZlTVOA79Z8-cbe.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083508365897138176/vid/avc1/2360x1640/bCAk0OvzG4tKdXOt.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083508365897138176/vid/avc1/388x270/iujGjz3dcwaWwRG3.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083508365897138176/vid/avc1/518x360/aApV9ZEtQhxPbiQr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083508365897138176/vid/avc1/1036x720/G-1Fc76v_hyxUO8-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083508365897138176/pl/7M-t5vQnaz7eRy6Z.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083508365897138176/vid/avc1/1554x1080/fS6K4J6tMVqdsP7U.mp4"
+          }
+        ],
+        "width": 2360
+      },
+      {
+        "height": 1423,
+        "media_key": "3_2083508365867855872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOob0eIbsAAziMr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083508365897138176",
+            "3_2083508365867855872"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083508846459543996",
+        "created_at": "2026-08-01T11:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083508846459543996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q2nIz6RMAv",
+              "end": 28,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2083508846459543996/video/1",
+              "media_key": "13_2083508365897138176",
+              "start": 5,
+              "url": "https://t.co/Q2nIz6RMAv"
+            },
+            {
+              "display_url": "pic.x.com/Q2nIz6RMAv",
+              "end": 28,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2083508846459543996/video/1",
+              "media_key": "3_2083508365867855872",
+              "start": 5,
+              "url": "https://t.co/Q2nIz6RMAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083508846459543996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "养老成功 https://t.co/Q2nIz6RMAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 404,
+          "like_count": 24457,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      }
+    ]
+  }
+}

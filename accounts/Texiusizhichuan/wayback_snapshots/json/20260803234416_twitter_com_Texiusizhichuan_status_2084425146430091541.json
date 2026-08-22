@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2079192979902980596",
+    "created_at": "2026-08-03T23:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084425146430091541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014010116539039744",
+          "start": 0,
+          "username": "GSG2037941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084425146430091541",
+    "in_reply_to_user_id": "2014010116539039744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079228385273028909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GSG2037941 沃日，才看到，我没看书呢，我只是取了忒修斯之船的名字才知道还有本书"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2079192979902980596",
+        "created_at": "2026-08-03T23:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084425146430091541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014010116539039744",
+              "start": 0,
+              "username": "GSG2037941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084425146430091541",
+        "in_reply_to_user_id": "2014010116539039744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079228385273028909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GSG2037941 沃日，才看到，我没看书呢，我只是取了忒修斯之船的名字才知道还有本书"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014010116539039744",
+        "conversation_id": "2079192979902980596",
+        "created_at": "2026-07-20T15:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079228385273028909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079228385273028909",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079192979902980596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiuszhichuan 30，你封面的那本书读起来怎样(｢･ω･)｢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 387,
+          "like_count": 24421,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T16:20:26.000Z",
+        "description": "作为一位男大学生，曾经找到两个木偶。\n现在， 继续寻找木偶。(｢･ω･)｢\n只聊天，不线下。机器人别私聊我了。",
+        "id": "2014010116539039744",
+        "name": "蓑笠翁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014010457800204288/j3B1u4uD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 199,
+          "like_count": 2043,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "GSG2037941",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2088497618112639072",
+    "created_at": "2026-08-15T13:38:01.000Z",
+    "display_text_range": [
+      11,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T14:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088621235760771239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "LinQi_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088621235760771239",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088497618112639072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinQi_QAQ 你个睿智玩意还盗号 你配吗就盗号，没有自己的号吗，没有自己的手吗，没有自己的脑子吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2088497618112639072",
+        "created_at": "2026-08-15T13:38:01.000Z",
+        "display_text_range": [
+          11,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088621235760771239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "LinQi_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088621235760771239",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088497618112639072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi_QAQ 你个睿智玩意还盗号 你配吗就盗号，没有自己的号吗，没有自己的手吗，没有自己的脑子吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786442629917589505",
+        "conversation_id": "2088497618112639072",
+        "created_at": "2026-08-15T05:26:49.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088497618112639072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088497618112639072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我太奇怪了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2088621235760771239",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 403,
+          "like_count": 24403,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1338
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "草履虫/互fo/友好生物/下方链接像我提问\n妹妹：@maomi1215",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "maomi1215"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linqi_qaq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/linqi_qaq",
+                "start": 0,
+                "url": "https://t.co/oX9QH90WN6"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "is_identity_verified": false,
+        "location": "培养皿",
+        "most_recent_tweet_id": "2088592901127500249",
+        "name": "LinQi",
+        "pinned_tweet_id": "2088543517996146690",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786442629917589505/1782894635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 482,
+          "like_count": 15457,
+          "listed_count": 1,
+          "media_count": 340,
+          "tweet_count": 2134
+        },
+        "url": "https://t.co/oX9QH90WN6",
+        "username": "LinQi_QAQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

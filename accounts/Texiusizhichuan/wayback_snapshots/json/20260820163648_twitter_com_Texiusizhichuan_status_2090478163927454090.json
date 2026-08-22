@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090478156335702016",
+        "3_2090478156369330179"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2090478163927454090",
+    "created_at": "2026-08-20T16:36:48.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T17:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090478163927454090"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FYoJg9rhcP",
+          "end": 47,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2090478163927454090/photo/1",
+          "media_key": "3_2090478156335702016",
+          "start": 24,
+          "url": "https://t.co/FYoJg9rhcP"
+        },
+        {
+          "display_url": "pic.x.com/FYoJg9rhcP",
+          "end": 47,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2090478163927454090/photo/1",
+          "media_key": "3_2090478156369330179",
+          "start": 24,
+          "url": "https://t.co/FYoJg9rhcP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090478163927454090",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090478156335702016"
+      },
+      {
+        "media_key": "3_2090478156369330179"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子们，最近沉迷于画画了，尽量多画一点练习一下 https://t.co/FYoJg9rhcP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090478156335702016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLezq8aYAA2Osk.jpg",
+        "width": 1416
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2090478156369330179",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLezrEbgAM1ODv.jpg",
+        "width": 1432
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090478156335702016",
+            "3_2090478156369330179"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2090478163927454090",
+        "created_at": "2026-08-20T16:36:48.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090478163927454090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYoJg9rhcP",
+              "end": 47,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2090478163927454090/photo/1",
+              "media_key": "3_2090478156335702016",
+              "start": 24,
+              "url": "https://t.co/FYoJg9rhcP"
+            },
+            {
+              "display_url": "pic.x.com/FYoJg9rhcP",
+              "end": 47,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2090478163927454090/photo/1",
+              "media_key": "3_2090478156369330179",
+              "start": 24,
+              "url": "https://t.co/FYoJg9rhcP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090478163927454090",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090478156335702016"
+          },
+          {
+            "media_key": "3_2090478156369330179"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，最近沉迷于画画了，尽量多画一点练习一下 https://t.co/FYoJg9rhcP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2090478163927454090",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508,
+          "following_count": 400,
+          "like_count": 24369,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1359
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

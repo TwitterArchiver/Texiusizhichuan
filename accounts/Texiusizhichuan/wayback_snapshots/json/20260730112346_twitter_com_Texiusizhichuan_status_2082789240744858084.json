@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082781028574490624",
+        "3_2082781028582854656",
+        "3_2082781028599611392",
+        "3_2082781028889034752"
+      ],
+      "media_source_tweet_id": [
+        "2082781051978735903",
+        "2082781051978735903",
+        "2082781051978735903",
+        "2082781051978735903"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2082789240744858084",
+    "created_at": "2026-07-30T11:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T12:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082789240744858084"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 85,
+          "start": 82,
+          "tag": "门槛"
+        },
+        {
+          "end": 90,
+          "start": 86,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 95,
+          "start": 91,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 101,
+          "start": 96,
+          "tag": "金主爸爸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059326143640276992",
+          "start": 3,
+          "username": "Huhiosc3x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OfYgkhkGXw",
+          "end": 125,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+          "media_key": "3_2082781028574490624",
+          "start": 102,
+          "url": "https://t.co/OfYgkhkGXw"
+        },
+        {
+          "display_url": "pic.x.com/OfYgkhkGXw",
+          "end": 125,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+          "media_key": "3_2082781028582854656",
+          "start": 102,
+          "url": "https://t.co/OfYgkhkGXw"
+        },
+        {
+          "display_url": "pic.x.com/OfYgkhkGXw",
+          "end": 125,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+          "media_key": "3_2082781028599611392",
+          "start": 102,
+          "url": "https://t.co/OfYgkhkGXw"
+        },
+        {
+          "display_url": "pic.x.com/OfYgkhkGXw",
+          "end": 125,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+          "media_key": "3_2082781028889034752",
+          "start": 102,
+          "url": "https://t.co/OfYgkhkGXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082789240744858084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082781051978735903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huhiosc3x: 置顶🔝\n＝hh，努力生活的女孩，可以给我点资助吗，佛系接线下，准备去跑外卖，家里比较穷想让自己生活好一点，欢迎同类，门槛妹互fo互转！#门槛 #门槛妹 #爸爸活 #金主爸爸 https://t.co/OfYgkhkGXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2082781028574490624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeGT3ka8AAV2ia.jpg",
+        "width": 1152
+      },
+      {
+        "height": 871,
+        "media_key": "3_2082781028582854656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeGT3makAAtzFE.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1798,
+        "media_key": "3_2082781028599611392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeGT3qaQAA_sQY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082781028889034752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeGT4vagAAiUvp.jpg",
+        "width": 1702
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082781028574490624",
+            "3_2082781028582854656",
+            "3_2082781028599611392",
+            "3_2082781028889034752"
+          ]
+        },
+        "author_id": "2059326143640276992",
+        "conversation_id": "2082781051978735903",
+        "created_at": "2026-07-30T10:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082781051978735903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "门槛"
+            },
+            {
+              "end": 75,
+              "start": 71,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 80,
+              "start": 76,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 86,
+              "start": 81,
+              "tag": "金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 110,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028574490624",
+              "start": 87,
+              "url": "https://t.co/OfYgkhkGXw"
+            },
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 110,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028582854656",
+              "start": 87,
+              "url": "https://t.co/OfYgkhkGXw"
+            },
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 110,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028599611392",
+              "start": 87,
+              "url": "https://t.co/OfYgkhkGXw"
+            },
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 110,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028889034752",
+              "start": 87,
+              "url": "https://t.co/OfYgkhkGXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082781051978735903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n＝hh，努力生活的女孩，可以给我点资助吗，佛系接线下，准备去跑外卖，家里比较穷想让自己生活好一点，欢迎同类，门槛妹互fo互转！#门槛 #门槛妹 #爸爸活 #金主爸爸 https://t.co/OfYgkhkGXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082781028574490624",
+            "3_2082781028582854656",
+            "3_2082781028599611392",
+            "3_2082781028889034752"
+          ],
+          "media_source_tweet_id": [
+            "2082781051978735903",
+            "2082781051978735903",
+            "2082781051978735903",
+            "2082781051978735903"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2082789240744858084",
+        "created_at": "2026-07-30T11:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082789240744858084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 82,
+              "tag": "门槛"
+            },
+            {
+              "end": 90,
+              "start": 86,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 95,
+              "start": 91,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "金主爸爸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059326143640276992",
+              "start": 3,
+              "username": "Huhiosc3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 125,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028574490624",
+              "start": 102,
+              "url": "https://t.co/OfYgkhkGXw"
+            },
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 125,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028582854656",
+              "start": 102,
+              "url": "https://t.co/OfYgkhkGXw"
+            },
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 125,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028599611392",
+              "start": 102,
+              "url": "https://t.co/OfYgkhkGXw"
+            },
+            {
+              "display_url": "pic.x.com/OfYgkhkGXw",
+              "end": 125,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082781051978735903/photo/1",
+              "media_key": "3_2082781028889034752",
+              "start": 102,
+              "url": "https://t.co/OfYgkhkGXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082789240744858084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082781051978735903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huhiosc3x: 置顶🔝\n＝hh，努力生活的女孩，可以给我点资助吗，佛系接线下，准备去跑外卖，家里比较穷想让自己生活好一点，欢迎同类，门槛妹互fo互转！#门槛 #门槛妹 #爸爸活 #金主爸爸 https://t.co/OfYgkhkGXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 393,
+          "like_count": 24467,
+          "listed_count": 0,
+          "media_count": 155,
+          "tweet_count": 1287
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜被禁评了回复用引用｜餐券顺女，友跨｜清了波没有回关的如果有误清请务必私信告知我！不会单取任何人！",
+        "id": "2059326143640276992",
+        "name": "Huhio",
+        "pinned_tweet_id": "2082781051978735903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 173,
+          "like_count": 1175,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

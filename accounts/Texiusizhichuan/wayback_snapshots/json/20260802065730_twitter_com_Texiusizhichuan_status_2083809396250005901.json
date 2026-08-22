@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2083808978052710560",
+    "created_at": "2026-08-02T06:57:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:57:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083809396250005901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1830260222180646912",
+          "start": 0,
+          "username": "Ep1pQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083809396250005901",
+    "in_reply_to_user_id": "1830260222180646912",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083809344718877125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ep1pQAQ hyw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2083808978052710560",
+        "created_at": "2026-08-02T06:57:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083809396250005901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1830260222180646912",
+              "start": 0,
+              "username": "Ep1pQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083809396250005901",
+        "in_reply_to_user_id": "1830260222180646912",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083809344718877125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ep1pQAQ hyw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830260222180646912",
+        "conversation_id": "2083808978052710560",
+        "created_at": "2026-08-02T06:57:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:57:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083809344718877125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083809344718877125",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083808978052710560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 我是人机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了不正常人，如满脑黄色废料）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 393,
+          "like_count": 24452,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T15:03:53.000Z",
+        "description": "喂喂？让你视奸我了吗！等等...你说你要加入ep的无时无刻的无聊大冒险喵？（叉腰）那就勉为其难的同意你入伙了...哼哼！（得意）\n简单自我介绍一下吧—\nINFP-A/是个经自我专业审批后选择个性化内分泌调节方案的MTF🍬！/情绪调酒师，来者不拒，欢迎私信，希望能到1000fo...（当前入伙人数194！/1000）",
+        "id": "1830260222180646912",
+        "name": "番茄摞EP🍮🍥🏳️‍⚧",
+        "pinned_tweet_id": "2064967397908611328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059240653293518848/PV6Psq4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 150,
+          "like_count": 806,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "Ep1pQAQ",
+        "verified": false
+      }
+    ]
+  }
+}
