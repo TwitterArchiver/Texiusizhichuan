@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2095568725030436867",
+    "created_at": "2026-09-04T04:57:07.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095737900411625675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069259812517634048",
+          "start": 0,
+          "username": "JoannZ_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095737900411625675",
+    "in_reply_to_user_id": "2069259812517634048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095568725030436867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JoannZ_mark 生日快乐！！！🎂🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095568688963555329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRT0nqwakAE_1LG.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095568709230395392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRT0o2QaAAAqyAC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2095568725030436867",
+        "created_at": "2026-09-04T04:57:07.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095737900411625675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069259812517634048",
+              "start": 0,
+              "username": "JoannZ_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095737900411625675",
+        "in_reply_to_user_id": "2069259812517634048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095568725030436867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JoannZ_mark 生日快乐！！！🎂🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095568688963555329",
+            "3_2095568709230395392"
+          ]
+        },
+        "author_id": "2069259812517634048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095568725030436867",
+        "created_at": "2026-09-03T17:44:52.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T18:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095568725030436867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YTY2lDcHG",
+              "end": 42,
+              "expanded_url": "https://x.com/JoannZ_mark/status/2095568725030436867/photo/1",
+              "media_key": "3_2095568688963555329",
+              "start": 19,
+              "url": "https://t.co/9YTY2lDcHG"
+            },
+            {
+              "display_url": "pic.x.com/9YTY2lDcHG",
+              "end": 42,
+              "expanded_url": "https://x.com/JoannZ_mark/status/2095568725030436867/photo/1",
+              "media_key": "3_2095568709230395392",
+              "start": 19,
+              "url": "https://t.co/9YTY2lDcHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095568725030436867",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095568688963555329"
+          },
+          {
+            "media_key": "3_2095568709230395392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天19岁了！我可以听见那四个字吗😋 https://t.co/9YTY2lDcHG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2095737900411625675",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 428,
+          "like_count": 24153,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1411
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-23T03:23:23.000Z",
+        "description": "𝓒𝓪𝓷𝓽 𝔂𝓸𝓾 𝔀𝓪𝓲𝓽 𝓓𝓸𝓷𝓽 𝓵𝓸𝓿𝓮 𝓷𝓸𝓫𝓸𝓭𝔂\nf0gger",
+        "id": "2069259812517634048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095715001676059088",
+        "name": "Joann Z",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069259812517634048/1782185257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077428314734784512/koJeJIKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 148,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "JoannZ_mark",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

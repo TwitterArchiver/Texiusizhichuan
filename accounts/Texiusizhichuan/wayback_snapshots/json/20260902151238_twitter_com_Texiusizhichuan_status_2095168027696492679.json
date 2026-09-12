@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095144292201451520",
+        "3_2095144299705049088"
+      ],
+      "media_source_tweet_id": [
+        "2095144305463816219",
+        "2095144305463816219"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2095168027696492679",
+    "created_at": "2026-09-02T15:12:38.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:12:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095168027696492679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1806323631263252480",
+          "start": 3,
+          "username": "nuoruan520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ll0Ta1e9l9",
+          "end": 72,
+          "expanded_url": "https://x.com/nuoruan520/status/2095144305463816219/photo/1",
+          "media_key": "3_2095144292201451520",
+          "start": 49,
+          "url": "https://t.co/Ll0Ta1e9l9"
+        },
+        {
+          "display_url": "pic.x.com/Ll0Ta1e9l9",
+          "end": 72,
+          "expanded_url": "https://x.com/nuoruan520/status/2095144305463816219/photo/1",
+          "media_key": "3_2095144299705049088",
+          "start": 49,
+          "url": "https://t.co/Ll0Ta1e9l9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095168027696492679",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095144292201451520"
+      },
+      {
+        "media_key": "3_2095144299705049088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095144305463816219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nuoruan520: 这是一条交友&amp;互fo贴\n（有小宝帮我转贴吗 非常感谢🥺） https://t.co/Ll0Ta1e9l9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2095144292201451520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNyohna0AA3c-s.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1705,
+        "media_key": "3_2095144299705049088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNyo9kaoAAgnHi.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095144292201451520",
+            "3_2095144299705049088"
+          ],
+          "media_source_tweet_id": [
+            "2095144305463816219",
+            "2095144305463816219"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2095168027696492679",
+        "created_at": "2026-09-02T15:12:38.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095168027696492679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1806323631263252480",
+              "start": 3,
+              "username": "nuoruan520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll0Ta1e9l9",
+              "end": 72,
+              "expanded_url": "https://x.com/nuoruan520/status/2095144305463816219/photo/1",
+              "media_key": "3_2095144292201451520",
+              "start": 49,
+              "url": "https://t.co/Ll0Ta1e9l9"
+            },
+            {
+              "display_url": "pic.x.com/Ll0Ta1e9l9",
+              "end": 72,
+              "expanded_url": "https://x.com/nuoruan520/status/2095144305463816219/photo/1",
+              "media_key": "3_2095144299705049088",
+              "start": 49,
+              "url": "https://t.co/Ll0Ta1e9l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095168027696492679",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095144292201451520"
+          },
+          {
+            "media_key": "3_2095144299705049088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095144305463816219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nuoruan520: 这是一条交友&amp;互fo贴\n（有小宝帮我转贴吗 非常感谢🥺） https://t.co/Ll0Ta1e9l9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095144292201451520",
+            "3_2095144299705049088"
+          ]
+        },
+        "author_id": "1806323631263252480",
+        "conversation_id": "2095144305463816219",
+        "created_at": "2026-09-02T13:38:22.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095144305463816219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ll0Ta1e9l9",
+              "end": 56,
+              "expanded_url": "https://x.com/nuoruan520/status/2095144305463816219/photo/1",
+              "media_key": "3_2095144292201451520",
+              "start": 33,
+              "url": "https://t.co/Ll0Ta1e9l9"
+            },
+            {
+              "display_url": "pic.x.com/Ll0Ta1e9l9",
+              "end": 56,
+              "expanded_url": "https://x.com/nuoruan520/status/2095144305463816219/photo/1",
+              "media_key": "3_2095144299705049088",
+              "start": 33,
+              "url": "https://t.co/Ll0Ta1e9l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095144305463816219",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095144292201451520"
+          },
+          {
+            "media_key": "3_2095144299705049088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 310,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条交友&amp;互fo贴\n（有小宝帮我转贴吗 非常感谢🥺） https://t.co/Ll0Ta1e9l9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2095168027696492679",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 421,
+          "like_count": 24141,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-27T13:48:18.000Z",
+        "description": "🍥|mtf|🏳️‍⚧️|生产日期 2008.7.28| hrt 2025.8.1 |泛性恋|                                                    友 LGBTQ+🏳️‍🌈|会回关同类|\n向我发送匿名提问→https://t.co/UNkXHnPSAe",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nuoruan520",
+                "end": 150,
+                "expanded_url": "https://ngl.link/nuoruan520",
+                "start": 127,
+                "url": "https://t.co/UNkXHnPSAe"
+              }
+            ]
+          }
+        },
+        "id": "1806323631263252480",
+        "is_identity_verified": false,
+        "location": "太阳系（可能在地球）",
+        "most_recent_tweet_id": "2095145953070358857",
+        "name": "栖梧(互fo)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806323631263252480/1765957534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091829264802844672/04c2dDWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 383,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "nuoruan520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2091555992093991031",
+    "created_at": "2026-08-23T15:59:42.000Z",
+    "display_text_range": [
+      0,
+      124
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091555992093991031"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091555992093991031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "没想到就十九岁了，明年也是个奔二的人了，感觉自己还是个年轻小伙子，但是从日常生活和打游戏都能感受到已经不如从前了，至少我觉得就算我再大也得保留打游戏的良好习惯，怎么说我也想保留一个爱好让我觉得我自己还是十八岁小伙子，不想随着年龄的增长变成无聊的大人\n再怎么说也是很高兴，出国啊遇到很多人和朋友，遇到了很好的人，希望明年的这个时候我也能心态一直年轻吧"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没想到就十九岁了，明年也是个奔二的人了，感觉自己还是个年轻小伙子，但是从日常生活和打游戏都能感受到已经不如从前了，至少我觉得就算我再大也得保留打游戏的良好习惯，怎么说我也想保留一个爱好让我觉得我自己还是十八岁小伙子，不想随着年龄的增长变成无聊的大人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2091555992093991031",
+        "created_at": "2026-08-23T15:59:42.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091555992093991031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091555992093991031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "没想到就十九岁了，明年也是个奔二的人了，感觉自己还是个年轻小伙子，但是从日常生活和打游戏都能感受到已经不如从前了，至少我觉得就算我再大也得保留打游戏的良好习惯，怎么说我也想保留一个爱好让我觉得我自己还是十八岁小伙子，不想随着年龄的增长变成无聊的大人\n再怎么说也是很高兴，出国啊遇到很多人和朋友，遇到了很好的人，希望明年的这个时候我也能心态一直年轻吧"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没想到就十九岁了，明年也是个奔二的人了，感觉自己还是个年轻小伙子，但是从日常生活和打游戏都能感受到已经不如从前了，至少我觉得就算我再大也得保留打游戏的良好习惯，怎么说我也想保留一个爱好让我觉得我自己还是十八岁小伙子，不想随着年龄的增长变成无聊的大人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2091555992093991031",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 411,
+          "like_count": 24405,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1380
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

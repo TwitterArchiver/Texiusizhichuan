@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095194845212246017",
+        "3_2095194845224865792",
+        "3_2095197021628211200"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2095197027487597020",
+    "created_at": "2026-09-02T17:07:52.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:59:18.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095194868096344220",
+      "2095197027487597020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5wo73slHnD",
+          "end": 51,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2095197027487597020/photo/1",
+          "media_key": "3_2095194845212246017",
+          "start": 28,
+          "url": "https://t.co/5wo73slHnD"
+        },
+        {
+          "display_url": "pic.x.com/5wo73slHnD",
+          "end": 51,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2095197027487597020/photo/1",
+          "media_key": "3_2095194845224865792",
+          "start": 28,
+          "url": "https://t.co/5wo73slHnD"
+        },
+        {
+          "display_url": "pic.x.com/5wo73slHnD",
+          "end": 51,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2095197027487597020/photo/1",
+          "media_key": "3_2095197021628211200",
+          "start": 28,
+          "url": "https://t.co/5wo73slHnD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095197027487597020",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095194845212246017"
+      },
+      {
+        "media_key": "3_2095194845224865792"
+      },
+      {
+        "media_key": "3_2095197021628211200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶，身为我的本命，我画鹰佐画的只有这么好看了，太满意了 https://t.co/5wo73slHnD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_2095194845212246017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROgnGQbAAEXmQq.jpg",
+        "width": 384
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095194845224865792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROgnGTbkAAbhNt.jpg",
+        "width": 1398
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095194845212184577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROgnGQaEAEN34J.jpg",
+        "width": 1340
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095197021628211200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HROilyCbIAAGkN8.jpg",
+        "width": 1406
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095194845212246017",
+            "3_2095194845224865792",
+            "3_2095194845212184577"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095194868096344220",
+        "created_at": "2026-09-02T16:59:18.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:59:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095194868096344220",
+          "2095197027487597020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KLvoXiSL1k",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2095194868096344220/photo/1",
+              "media_key": "3_2095194845212246017",
+              "start": 28,
+              "url": "https://t.co/KLvoXiSL1k"
+            },
+            {
+              "display_url": "pic.x.com/KLvoXiSL1k",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2095194868096344220/photo/1",
+              "media_key": "3_2095194845224865792",
+              "start": 28,
+              "url": "https://t.co/KLvoXiSL1k"
+            },
+            {
+              "display_url": "pic.x.com/KLvoXiSL1k",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2095194868096344220/photo/1",
+              "media_key": "3_2095194845212184577",
+              "start": 28,
+              "url": "https://t.co/KLvoXiSL1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095194868096344220",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095194845212246017"
+          },
+          {
+            "media_key": "3_2095194845224865792"
+          },
+          {
+            "media_key": "3_2095194845212184577"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶，身为我的本命，我画鹰佐画的只有这么好看了，太满意了 https://t.co/KLvoXiSL1k"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095194845212246017",
+            "3_2095194845224865792",
+            "3_2095197021628211200"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095197027487597020",
+        "created_at": "2026-09-02T17:07:52.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:59:18.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095194868096344220",
+          "2095197027487597020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5wo73slHnD",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2095197027487597020/photo/1",
+              "media_key": "3_2095194845212246017",
+              "start": 28,
+              "url": "https://t.co/5wo73slHnD"
+            },
+            {
+              "display_url": "pic.x.com/5wo73slHnD",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2095197027487597020/photo/1",
+              "media_key": "3_2095194845224865792",
+              "start": 28,
+              "url": "https://t.co/5wo73slHnD"
+            },
+            {
+              "display_url": "pic.x.com/5wo73slHnD",
+              "end": 51,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2095197027487597020/photo/1",
+              "media_key": "3_2095197021628211200",
+              "start": 28,
+              "url": "https://t.co/5wo73slHnD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095197027487597020",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095194845212246017"
+          },
+          {
+            "media_key": "3_2095194845224865792"
+          },
+          {
+            "media_key": "3_2095197021628211200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶，身为我的本命，我画鹰佐画的只有这么好看了，太满意了 https://t.co/5wo73slHnD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2095197027487597020",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 422,
+          "like_count": 24142,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

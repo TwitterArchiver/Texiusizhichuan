@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2095643574083989509",
+    "created_at": "2026-09-04T00:41:06.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T01:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095673474073448633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924119398497026050",
+          "start": 0,
+          "username": "HhcvhW18221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095673474073448633",
+    "in_reply_to_user_id": "1924119398497026050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095643574083989509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhcvhW18221 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2095643574083989509",
+        "created_at": "2026-09-04T00:41:06.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T01:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095673474073448633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924119398497026050",
+              "start": 0,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095673474073448633",
+        "in_reply_to_user_id": "1924119398497026050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095643574083989509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhcvhW18221 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924119398497026050",
+        "conversation_id": "2095643574083989509",
+        "created_at": "2026-09-03T22:42:17.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095643574083989509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095643574083989509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是我生日  却不知道自己该要点什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2095673474073448633",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 428,
+          "like_count": 24143,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1410
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号｜无证含糖｜hrt2026.5.19｜碎碎念@kelidexi  TG号 ;https://t.co/TXNcFPNWlV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "kelidexi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HhcvhW",
+                "end": 72,
+                "expanded_url": "http://t.me/HhcvhW",
+                "start": 49,
+                "url": "https://t.co/TXNcFPNWlV"
+              }
+            ]
+          }
+        },
+        "id": "1924119398497026050",
+        "is_identity_verified": false,
+        "location": "纳塔 烟迷主",
+        "most_recent_tweet_id": "2095643672960274496",
+        "name": "茜 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2094806582110400876",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924119398497026050/1784622428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 546,
+          "like_count": 1115,
+          "listed_count": 3,
+          "media_count": 92,
+          "tweet_count": 1543
+        },
+        "url": "",
+        "username": "HhcvhW18221",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

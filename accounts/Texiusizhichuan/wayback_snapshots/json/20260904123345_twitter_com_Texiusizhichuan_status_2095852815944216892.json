@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2095197027487597020",
+    "created_at": "2026-09-04T12:33:45.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T13:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095852815944216892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2045775007737847808",
+          "start": 0,
+          "username": "02momo204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095852815944216892",
+    "in_reply_to_user_id": "2045775007737847808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095843917883408749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@02momo204 谢谢你呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2095197027487597020",
+        "created_at": "2026-09-04T12:33:45.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095852815944216892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2045775007737847808",
+              "start": 0,
+              "username": "02momo204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095852815944216892",
+        "in_reply_to_user_id": "2045775007737847808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095843917883408749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@02momo204 谢谢你呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045775007737847808",
+        "conversation_id": "2095197027487597020",
+        "created_at": "2026-09-04T11:58:23.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T12:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095843917883408749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095843917883408749",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095197027487597020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 技术越来越好了船长"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2095852815944216892",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 428,
+          "like_count": 24157,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1413
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T08:03:43.000Z",
+        "description": "推特小萌新，会分享一些日常，互关必回哦😘",
+        "id": "2045775007737847808",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095843917883408749",
+        "name": "momo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045775007737847808/1780797433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064380358104379392/ysSyZypt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 73,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "02momo204",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

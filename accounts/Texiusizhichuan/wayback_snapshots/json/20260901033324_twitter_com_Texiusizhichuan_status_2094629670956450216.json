@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2094429505817661535",
+    "created_at": "2026-09-01T03:33:24.000Z",
+    "display_text_range": [
+      10,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094629670956450216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2088885455467253760",
+          "start": 0,
+          "username": "yxvd6166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094629670956450216",
+    "in_reply_to_user_id": "2088885455467253760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094560408007045255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yxvd6166 我画过的，你可以翻一下以前的帖子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2094429505817661535",
+        "created_at": "2026-09-01T03:33:24.000Z",
+        "display_text_range": [
+          10,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094629670956450216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2088885455467253760",
+              "start": 0,
+              "username": "yxvd6166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094629670956450216",
+        "in_reply_to_user_id": "2088885455467253760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094560408007045255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yxvd6166 我画过的，你可以翻一下以前的帖子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088885455467253760",
+        "conversation_id": "2094429505817661535",
+        "created_at": "2026-08-31T22:58:10.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094560408007045255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094560408007045255",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094429505817661535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 来个侠佐👍👍👍"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2094629686714474676",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 419,
+          "like_count": 24141,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1401
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-16T07:10:32.000Z",
+        "description": "16岁高二♂  互fo 可以聊动漫，gal   喜欢百合😋\n一个gal小资历……\n喜欢的歌手：周杰伦   松下优也\n吉他初学者……\n日本人の方と友達になりたいです！",
+        "id": "2088885455467253760",
+        "is_identity_verified": false,
+        "location": "卡了",
+        "most_recent_tweet_id": "2094581611010379842",
+        "name": "みなづき けい",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088885455467253760/1786864544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092122704824401920/pyNoGmSe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 94,
+          "like_count": 536,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 193
+        },
+        "url": "",
+        "username": "yxvd6166",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

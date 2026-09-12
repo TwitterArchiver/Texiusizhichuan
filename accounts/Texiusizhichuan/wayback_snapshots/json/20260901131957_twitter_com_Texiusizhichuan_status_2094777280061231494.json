@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2094429505817661535",
+    "created_at": "2026-09-01T13:19:57.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094777280061231494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092938254639386624",
+          "start": 0,
+          "username": "jh15tb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094777280061231494",
+    "in_reply_to_user_id": "2092938254639386624",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094741649293525024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jh15tb 难绷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2094429505817661535",
+        "created_at": "2026-09-01T13:19:57.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094777280061231494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092938254639386624",
+              "start": 0,
+              "username": "jh15tb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094777280061231494",
+        "in_reply_to_user_id": "2092938254639386624",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094741649293525024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jh15tb 难绷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092938254639386624",
+        "conversation_id": "2094429505817661535",
+        "created_at": "2026-09-01T10:58:22.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T11:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094741649293525024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094741649293525024",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094429505817661535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 没想到还能刷到你，我之前的号被封了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2094777280061231494",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 419,
+          "like_count": 24144,
+          "listed_count": 0,
+          "media_count": 174,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T11:32:41.000Z",
+        "description": "",
+        "id": "2092938254639386624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094748921059037566",
+        "name": "宋元明清",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092938254639386624/1787845246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092938515986432000/jCXKrouw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "",
+        "username": "jh15tb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

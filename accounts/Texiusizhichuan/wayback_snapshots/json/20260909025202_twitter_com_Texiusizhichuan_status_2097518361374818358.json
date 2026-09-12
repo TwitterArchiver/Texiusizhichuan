@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097518354466787328",
+        "3_2097518354433220608"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2097518361374818358",
+    "created_at": "2026-09-09T02:52:02.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T03:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097518361374818358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PD9DToGHQx",
+          "end": 33,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2097518361374818358/photo/1",
+          "media_key": "3_2097518354466787328",
+          "start": 10,
+          "url": "https://t.co/PD9DToGHQx"
+        },
+        {
+          "display_url": "pic.x.com/PD9DToGHQx",
+          "end": 33,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2097518361374818358/photo/1",
+          "media_key": "3_2097518354433220608",
+          "start": 10,
+          "url": "https://t.co/PD9DToGHQx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097518361374818358",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097518354466787328"
+      },
+      {
+        "media_key": "3_2097518354433220608"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "侠隐水门还是太帅了 https://t.co/PD9DToGHQx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097518354466787328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvh1Iva0AABW5i.jpg",
+        "width": 1384
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097518354433220608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvh1InaoAAtnLb.jpg",
+        "width": 1457
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097518354466787328",
+            "3_2097518354433220608"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2097518361374818358",
+        "created_at": "2026-09-09T02:52:02.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097518361374818358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PD9DToGHQx",
+              "end": 33,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2097518361374818358/photo/1",
+              "media_key": "3_2097518354466787328",
+              "start": 10,
+              "url": "https://t.co/PD9DToGHQx"
+            },
+            {
+              "display_url": "pic.x.com/PD9DToGHQx",
+              "end": 33,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2097518361374818358/photo/1",
+              "media_key": "3_2097518354433220608",
+              "start": 10,
+              "url": "https://t.co/PD9DToGHQx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097518361374818358",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097518354466787328"
+          },
+          {
+            "media_key": "3_2097518354433220608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "侠隐水门还是太帅了 https://t.co/PD9DToGHQx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2097518361374818358",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1788811582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 427,
+          "like_count": 24237,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1422
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2096930332146802918",
+    "created_at": "2026-09-07T20:16:31.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T21:16:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097056439374381234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759598042704207872",
+          "start": 0,
+          "username": "Oyama_Tsuimei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097056439374381234",
+    "in_reply_to_user_id": "1759598042704207872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096959876585095578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Tsuimei 等等看吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2096930332146802918",
+        "created_at": "2026-09-07T20:16:31.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T21:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097056439374381234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759598042704207872",
+              "start": 0,
+              "username": "Oyama_Tsuimei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097056439374381234",
+        "in_reply_to_user_id": "1759598042704207872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096959876585095578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Tsuimei 等等看吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759598042704207872",
+        "conversation_id": "2096930332146802918",
+        "created_at": "2026-09-07T13:52:48.000Z",
+        "display_text_range": [
+          17,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096959876585095578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096959876585095578",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096930332146802918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 老大什么时候画马斑和佛祖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2097056439374381234",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1788811582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 426,
+          "like_count": 24228,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-19T15:17:38.000Z",
+        "description": "我是坠明｜挚友：@ceptyphe｜没有牺牲大到不能接受，没有背叛小到可以忍受｜成分复杂，交友随意，回关看成分，欢迎私信互动",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "ceptyphe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsu1me1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsu1me1",
+                "start": 0,
+                "url": "https://t.co/AghfCSrk4K"
+              }
+            ]
+          }
+        },
+        "id": "1759598042704207872",
+        "is_identity_verified": false,
+        "location": "距你头顶514米的热熔跳帮舱中",
+        "most_recent_tweet_id": "2096964325235884114",
+        "name": "Tsu1me1,the Leviathan",
+        "pinned_tweet_id": "2037089987309818231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1759598042704207872/1782399268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096159110349873152/AMK7Tfxz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1316,
+          "following_count": 1055,
+          "like_count": 1299,
+          "listed_count": 3,
+          "media_count": 452,
+          "tweet_count": 5067
+        },
+        "url": "https://t.co/AghfCSrk4K",
+        "username": "Oyama_Tsuimei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

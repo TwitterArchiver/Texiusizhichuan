@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2091576450235392457",
+    "created_at": "2026-08-23T17:21:00.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T18:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091576450235392457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2073934453454614530",
+          "start": 3,
+          "username": "dreamolly1997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091576450235392457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091523315529916697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dreamolly1997: 转推抽三个月蓝勾😭😭\n谢谢推友们\n推友是我社交的全部🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2091576450235392457",
+        "created_at": "2026-08-23T17:21:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091576450235392457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2073934453454614530",
+              "start": 3,
+              "username": "dreamolly1997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091576450235392457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091523315529916697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dreamolly1997: 转推抽三个月蓝勾😭😭\n谢谢推友们\n推友是我社交的全部🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073934453454614530",
+        "conversation_id": "2091523315529916697",
+        "created_at": "2026-08-23T13:49:51.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091523315529916697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dreamolly11451…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/dreamolly114514/status/2091167283150504279",
+              "start": 28,
+              "url": "https://t.co/4A142QlcpO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091523315529916697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091167283150504279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "转推抽三个月蓝勾😭😭\n谢谢推友们\n推友是我社交的全部🫂 https://t.co/4A142QlcpO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2091576450235392457",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2079459514944983462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 411,
+          "like_count": 24410,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T00:59:22.000Z",
+        "description": "期待有天可以發生什麼，也許活的久真的能遇見外星人\n性别是快过期的猫猫罐头                                 \n08的魔法使",
+        "id": "2073934453454614530",
+        "is_identity_verified": false,
+        "location": "molise 的心里！",
+        "most_recent_tweet_id": "2091539981714293159",
+        "name": "molly",
+        "pinned_tweet_id": "2077023989197840422",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2073934453454614530/1783770009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075908544956862464/SGmWQGlW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 396,
+          "like_count": 1725,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2623
+        },
+        "url": "",
+        "username": "dreamolly1997",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

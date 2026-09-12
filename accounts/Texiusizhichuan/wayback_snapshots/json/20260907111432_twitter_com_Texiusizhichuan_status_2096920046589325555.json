@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096920039333199872",
+        "3_2096920039295537152"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2096920046589325555",
+    "created_at": "2026-09-07T11:14:32.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096920046589325555"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rN8PocS3NM",
+          "end": 44,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2096920046589325555/photo/1",
+          "media_key": "3_2096920039333199872",
+          "start": 21,
+          "url": "https://t.co/rN8PocS3NM"
+        },
+        {
+          "display_url": "pic.x.com/rN8PocS3NM",
+          "end": 44,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2096920046589325555/photo/1",
+          "media_key": "3_2096920039295537152",
+          "start": 21,
+          "url": "https://t.co/rN8PocS3NM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096920046589325555",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096920039333199872"
+      },
+      {
+        "media_key": "3_2096920039295537152"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "久违的画利姆露，终于有一个画的让我满意了 https://t.co/rN8PocS3NM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096920039333199872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnBqnLagAAp_no.jpg",
+        "width": 1406
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2096920039295537152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnBqnCb0AAjfAg.jpg",
+        "width": 1442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096920039333199872",
+            "3_2096920039295537152"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2096920046589325555",
+        "created_at": "2026-09-07T11:14:32.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096920046589325555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rN8PocS3NM",
+              "end": 44,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2096920046589325555/photo/1",
+              "media_key": "3_2096920039333199872",
+              "start": 21,
+              "url": "https://t.co/rN8PocS3NM"
+            },
+            {
+              "display_url": "pic.x.com/rN8PocS3NM",
+              "end": 44,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2096920046589325555/photo/1",
+              "media_key": "3_2096920039295537152",
+              "start": 21,
+              "url": "https://t.co/rN8PocS3NM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096920046589325555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096920039333199872"
+          },
+          {
+            "media_key": "3_2096920039295537152"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违的画利姆露，终于有一个画的让我满意了 https://t.co/rN8PocS3NM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2096920046589325555",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1785212687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 431,
+          "like_count": 24224,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1418
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
