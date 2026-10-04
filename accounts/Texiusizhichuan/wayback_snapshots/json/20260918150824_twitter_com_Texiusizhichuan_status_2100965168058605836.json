@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2100935920497439018",
+    "created_at": "2026-09-18T15:08:24.000Z",
+    "display_text_range": [
+      14,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100965168058605836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1878441068649426944",
+          "start": 0,
+          "username": "xian_zi17640"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100965168058605836",
+    "in_reply_to_user_id": "1878441068649426944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100935920497439018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian_zi17640 还好我已经开始玩Java了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36267,
+        "height": 1280,
+        "media_key": "13_2100935868777394176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100935868777394176/img/Kh0IooR9BK309mj1.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100935868777394176/vid/avc1/320x710/IeWvW2UUKelNbdHr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100935868777394176/vid/avc1/480x1066/M-szNfLoavzdINgm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100935868777394176/vid/avc1/576x1280/O7TyMffuJc4bwp7f.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100935868777394176/pl/zT2pbWGN8hjiBc1o.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2100935920497439018",
+        "created_at": "2026-09-18T15:08:24.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100965168058605836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1878441068649426944",
+              "start": 0,
+              "username": "xian_zi17640"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100965168058605836",
+        "in_reply_to_user_id": "1878441068649426944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100935920497439018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian_zi17640 还好我已经开始玩Java了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100935868777394176"
+          ]
+        },
+        "author_id": "1878441068649426944",
+        "conversation_id": "2100935920497439018",
+        "created_at": "2026-09-18T13:12:11.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100935920497439018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/op01DQgb5f",
+              "end": 39,
+              "expanded_url": "https://x.com/xian_zi17640/status/2100935920497439018/video/1",
+              "media_key": "13_2100935868777394176",
+              "start": 16,
+              "url": "https://t.co/op01DQgb5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100935920497439018",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100935868777394176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的世界在魅族应用商店销户了喵 https://t.co/op01DQgb5f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2100965168058605836",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1788811582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 442,
+          "like_count": 23330,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1433
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-12T13:57:19.000Z",
+        "description": "一个跨还很悲苦的咪/生产日期2011.12.09/HRT2026.7.25/https://t.co/DLilEeCWrw好哥哥@LinQi_AWA/姐姐@nekotanko_shiro/弟弟？/涩妹妹@littletaomiao/怕疼/小洁癖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 64,
+                "username": "LinQi_AWA"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "nekotanko_shiro"
+              },
+              {
+                "end": 115,
+                "start": 101,
+                "username": "littletaomiao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/huimi2/",
+                "end": 61,
+                "expanded_url": "https://ngl.link/huimi2/",
+                "start": 38,
+                "url": "https://t.co/DLilEeCWrw"
+              }
+            ]
+          }
+        },
+        "id": "1878441068649426944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100942589667254642",
+        "name": "huizxlkファイ🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878441068649426944/1779914618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041259774965395456/QJN4Ra5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 634,
+          "like_count": 4579,
+          "listed_count": 3,
+          "media_count": 1491,
+          "tweet_count": 4577
+        },
+        "url": "",
+        "username": "xian_zi17640",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

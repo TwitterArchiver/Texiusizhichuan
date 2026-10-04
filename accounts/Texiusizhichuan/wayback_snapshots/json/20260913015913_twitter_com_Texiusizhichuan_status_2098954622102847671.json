@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098954616549556224",
+        "3_2098954616549613568"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2098954622102847671",
+    "created_at": "2026-09-13T01:59:13.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T02:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098954622102847671"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AwRkJAuUSp",
+          "end": 42,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2098954622102847671/photo/1",
+          "media_key": "3_2098954616549556224",
+          "start": 19,
+          "url": "https://t.co/AwRkJAuUSp"
+        },
+        {
+          "display_url": "pic.x.com/AwRkJAuUSp",
+          "end": 42,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2098954622102847671/photo/1",
+          "media_key": "3_2098954616549613568",
+          "start": 19,
+          "url": "https://t.co/AwRkJAuUSp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098954622102847671",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098954616549556224"
+      },
+      {
+        "media_key": "3_2098954616549613568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正好晓朱鼬我也秒出来了，来一张助助兴 https://t.co/AwRkJAuUSp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098954616549556224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD8Gl8aQAA2Yvz.jpg",
+        "width": 1398
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098954616549613568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSD8Gl8bIAAkY7C.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098954616549556224",
+            "3_2098954616549613568"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2098954622102847671",
+        "created_at": "2026-09-13T01:59:13.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T02:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098954622102847671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AwRkJAuUSp",
+              "end": 42,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2098954622102847671/photo/1",
+              "media_key": "3_2098954616549556224",
+              "start": 19,
+              "url": "https://t.co/AwRkJAuUSp"
+            },
+            {
+              "display_url": "pic.x.com/AwRkJAuUSp",
+              "end": 42,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2098954622102847671/photo/1",
+              "media_key": "3_2098954616549613568",
+              "start": 19,
+              "url": "https://t.co/AwRkJAuUSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098954622102847671",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098954616549556224"
+          },
+          {
+            "media_key": "3_2098954616549613568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正好晓朱鼬我也秒出来了，来一张助助兴 https://t.co/AwRkJAuUSp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2098954622102847671",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1788811582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 430,
+          "like_count": 23342,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

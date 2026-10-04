@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2102752342101913814",
+    "created_at": "2026-09-24T01:44:07.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T02:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102937089990078848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2102674669933580288",
+          "start": 0,
+          "username": "youzixk0r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102937089990078848",
+    "in_reply_to_user_id": "2102674669933580288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102777700394098948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youzixk0r 好好好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2102752342101913814",
+        "created_at": "2026-09-24T01:44:07.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T02:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102937089990078848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2102674669933580288",
+              "start": 0,
+              "username": "youzixk0r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102937089990078848",
+        "in_reply_to_user_id": "2102674669933580288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102777700394098948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youzixk0r 好好好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2102674669933580288",
+        "conversation_id": "2102752342101913814",
+        "created_at": "2026-09-23T15:10:46.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102777700394098948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102777700394098948",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102752342101913814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 怎么又偷画我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2102937089990078848",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 450,
+          "like_count": 23387,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1446
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-23T08:25:49.000Z",
+        "description": "",
+        "id": "2102674669933580288",
+        "is_identity_verified": false,
+        "location": "1km",
+        "most_recent_tweet_id": "2102786216957784209",
+        "name": "youzi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102674669933580288/1790155336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102675967600939008/K-GcdN3S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 24,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "youzixk0r",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

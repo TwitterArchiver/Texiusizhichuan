@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2103851466696073253",
+    "created_at": "2026-09-26T16:07:37.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T17:07:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103879171080663450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2100170390580633600",
+          "start": 0,
+          "username": "Kaxinbluu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103879171080663450",
+    "in_reply_to_user_id": "2100170390580633600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103851466696073253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaxinbluu 来了来了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 622,
+        "media_key": "3_2103851461130256384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTJhwdjbAAA1bA4.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2103851466696073253",
+        "created_at": "2026-09-26T16:07:37.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103879171080663450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2100170390580633600",
+              "start": 0,
+              "username": "Kaxinbluu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103879171080663450",
+        "in_reply_to_user_id": "2100170390580633600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103851466696073253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaxinbluu 来了来了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103851461130256384"
+          ]
+        },
+        "author_id": "2100170390580633600",
+        "conversation_id": "2103851466696073253",
+        "created_at": "2026-09-26T14:17:31.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T15:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103851466696073253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bszw4wiVF1",
+              "end": 34,
+              "expanded_url": "https://x.com/Kaxinbluu/status/2103851466696073253/photo/1",
+              "media_key": "3_2103851461130256384",
+              "start": 11,
+              "url": "https://t.co/Bszw4wiVF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103851466696073253",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103851461130256384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是欣欣 互关回家。 https://t.co/Bszw4wiVF1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2103879171080663450",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2103158764249706520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 456,
+          "like_count": 23401,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1452
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-16T10:31:13.000Z",
+        "description": "欣欣/欣老师\n恋爱小号炸掉重生\n我只是一个呆萌的小鸡 吧",
+        "id": "2100170390580633600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103851466696073253",
+        "name": "Xin",
+        "pinned_tweet_id": "2100172996963143858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2100170390580633600/1789555275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100170767409487872/BmdMrLow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 29,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Kaxinbluu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

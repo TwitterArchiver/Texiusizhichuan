@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2105375992969855385",
+    "created_at": "2026-10-01T01:54:29.000Z",
+    "display_text_range": [
+      15,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T02:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105476411918295435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835719269314711552",
+          "start": 0,
+          "username": "520saber17265"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105476411918295435",
+    "in_reply_to_user_id": "1835719269314711552",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105375992969855385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520saber17265 你找找是不是有油女志乃在你家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2105375992969855385",
+        "created_at": "2026-10-01T01:54:29.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105476411918295435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835719269314711552",
+              "start": 0,
+              "username": "520saber17265"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105476411918295435",
+        "in_reply_to_user_id": "1835719269314711552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105375992969855385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520saber17265 你找找是不是有油女志乃在你家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835719269314711552",
+        "conversation_id": "2105375992969855385",
+        "created_at": "2026-09-30T19:15:27.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T20:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105375992969855385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105375992969855385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁把🦟刷怪笼扔我家了😭🙏刚拍死一个躺下又听到声音了我已急哭😭🦟会秽土转生这谁不尿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2105476411918295435",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2103158764249706520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 468,
+          "like_count": 23587,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1457
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-16T16:36:01.000Z",
+        "description": "ow白金4探底选手，是拉玛刹雾子小手子😭（我是傻逼二次元🤓）3400实力选手，是蛇兜的主人，植物人百豪纲哈基鸣仙人兜大手子胖宝宝虎皮小手子，可代段位武斗国标",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hyrz.qq.com/m/m202003/",
+                "end": 23,
+                "expanded_url": "https://hyrz.qq.com/m/m202003/",
+                "start": 0,
+                "url": "https://t.co/t9QinYcJdJ"
+              }
+            ]
+          }
+        },
+        "id": "1835719269314711552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105389243510218773",
+        "name": "药师兜【仙人模式】",
+        "pinned_tweet_id": "2066907857057108266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1835719269314711552/1726597624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033943111391711235/xScZcccc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 139,
+          "like_count": 3717,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/t9QinYcJdJ",
+        "username": "520saber17265",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

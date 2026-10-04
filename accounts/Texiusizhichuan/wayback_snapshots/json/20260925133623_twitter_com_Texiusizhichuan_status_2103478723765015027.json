@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2103478723765015027",
+    "created_at": "2026-09-25T13:36:23.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T14:36:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103478723765015027"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2103478723765015027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "做了一个其实挺悲伤的梦，不知道怎么回事我们家招惹了谁然后被下了诅咒，然后我们一家人就接二连三的出意外然后一个一个嗝屁，哎呀我也不知道我该怎么说，就是和巫术有点关系而且很邪门，梦里面的画面我也实在是形容不出来，和我之前看过的那些恐怖小说的那种画面很像，然后我就醒了，但是我醒了我也没啥情绪波动，很离谱"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做了一个其实挺悲伤的梦，不知道怎么回事我们家招惹了谁然后被下了诅咒，然后我们一家人就接二连三的出意外然后一个一个嗝屁，哎呀我也不知道我该怎么说，就是和巫术有点关系而且很邪门，梦里面的画面我也实在是形容不出来，和我之前看过的那些恐怖小说的那种画面很像，然后我就醒了，但是我醒了我也没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2103478723765015027",
+        "created_at": "2026-09-25T13:36:23.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103478723765015027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103478723765015027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做了一个其实挺悲伤的梦，不知道怎么回事我们家招惹了谁然后被下了诅咒，然后我们一家人就接二连三的出意外然后一个一个嗝屁，哎呀我也不知道我该怎么说，就是和巫术有点关系而且很邪门，梦里面的画面我也实在是形容不出来，和我之前看过的那些恐怖小说的那种画面很像，然后我就醒了，但是我醒了我也没啥情绪波动，很离谱"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做了一个其实挺悲伤的梦，不知道怎么回事我们家招惹了谁然后被下了诅咒，然后我们一家人就接二连三的出意外然后一个一个嗝屁，哎呀我也不知道我该怎么说，就是和巫术有点关系而且很邪门，梦里面的画面我也实在是形容不出来，和我之前看过的那些恐怖小说的那种画面很像，然后我就醒了，但是我醒了我也没"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2103478723765015027",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2103158764249706520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 450,
+          "like_count": 23449,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1450
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

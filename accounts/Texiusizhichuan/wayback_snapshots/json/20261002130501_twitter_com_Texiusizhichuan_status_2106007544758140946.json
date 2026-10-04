@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2105957814208467347",
+    "created_at": "2026-10-02T13:05:01.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T14:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106007544758140946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096265873585807360",
+          "start": 0,
+          "username": "zzreejy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106007544758140946",
+    "in_reply_to_user_id": "2096265873585807360",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105957814208467347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzreejy zdjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1552,
+        "media_key": "3_2105957800237314048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnddiMbsAAX5q2.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2105957814208467347",
+        "created_at": "2026-10-02T13:05:01.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T14:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106007544758140946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096265873585807360",
+              "start": 0,
+              "username": "zzreejy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106007544758140946",
+        "in_reply_to_user_id": "2096265873585807360",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105957814208467347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzreejy zdjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105957800237314048"
+          ]
+        },
+        "author_id": "2096265873585807360",
+        "conversation_id": "2105957814208467347",
+        "created_at": "2026-10-02T09:47:24.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105957814208467347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VnR0CgxrN",
+              "end": 38,
+              "expanded_url": "https://x.com/zzreejy/status/2105957814208467347/photo/1",
+              "media_key": "3_2105957800237314048",
+              "start": 15,
+              "url": "https://t.co/1VnR0CgxrN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105957814208467347",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105957800237314048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3531,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逃到这里应该就没人摸我头了吧 https://t.co/1VnR0CgxrN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2106007544758140946",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2103158764249706520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 473,
+          "like_count": 23605,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1459
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-05T15:56:04.000Z",
+        "description": "",
+        "id": "2096265873585807360",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2105998178072088698",
+        "name": "zzr",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096266198665383936/mujvyy2E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "zzreejy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

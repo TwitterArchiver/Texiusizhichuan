@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105583658178596864",
+        "3_2105583658187030528",
+        "3_2105583658153472000"
+      ],
+      "media_source_tweet_id": [
+        "2105583682883133737",
+        "2105583682883133737",
+        "2105583682883133737"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105613502283207080",
+    "created_at": "2026-10-01T10:59:14.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T11:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105613502283207080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035651502555967488",
+          "start": 3,
+          "username": "AkagiAme1921"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwqpuLkg8L",
+          "end": 61,
+          "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+          "media_key": "3_2105583658178596864",
+          "start": 38,
+          "url": "https://t.co/fwqpuLkg8L"
+        },
+        {
+          "display_url": "pic.x.com/fwqpuLkg8L",
+          "end": 61,
+          "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+          "media_key": "3_2105583658187030528",
+          "start": 38,
+          "url": "https://t.co/fwqpuLkg8L"
+        },
+        {
+          "display_url": "pic.x.com/fwqpuLkg8L",
+          "end": 61,
+          "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+          "media_key": "3_2105583658153472000",
+          "start": 38,
+          "url": "https://t.co/fwqpuLkg8L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105613502283207080",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105583658178596864"
+      },
+      {
+        "media_key": "3_2105583658187030528"
+      },
+      {
+        "media_key": "3_2105583658153472000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105583682883133737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkagiAme1921: 更新一下置顶，求帮转互of呀！我爱你们 https://t.co/fwqpuLkg8L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2105583658178596864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiJLmaaUAASX1s.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1757,
+        "media_key": "3_2105583658187030528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiJLmcbAAAdlfY.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2105583658153472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTiJLmUa8AAFrA6.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105583658178596864",
+            "3_2105583658187030528",
+            "3_2105583658153472000"
+          ],
+          "media_source_tweet_id": [
+            "2105583682883133737",
+            "2105583682883133737",
+            "2105583682883133737"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105613502283207080",
+        "created_at": "2026-10-01T10:59:14.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105613502283207080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035651502555967488",
+              "start": 3,
+              "username": "AkagiAme1921"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwqpuLkg8L",
+              "end": 61,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+              "media_key": "3_2105583658178596864",
+              "start": 38,
+              "url": "https://t.co/fwqpuLkg8L"
+            },
+            {
+              "display_url": "pic.x.com/fwqpuLkg8L",
+              "end": 61,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+              "media_key": "3_2105583658187030528",
+              "start": 38,
+              "url": "https://t.co/fwqpuLkg8L"
+            },
+            {
+              "display_url": "pic.x.com/fwqpuLkg8L",
+              "end": 61,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+              "media_key": "3_2105583658153472000",
+              "start": 38,
+              "url": "https://t.co/fwqpuLkg8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105613502283207080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105583658178596864"
+          },
+          {
+            "media_key": "3_2105583658187030528"
+          },
+          {
+            "media_key": "3_2105583658153472000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105583682883133737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkagiAme1921: 更新一下置顶，求帮转互of呀！我爱你们 https://t.co/fwqpuLkg8L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105583658178596864",
+            "3_2105583658187030528",
+            "3_2105583658153472000"
+          ]
+        },
+        "author_id": "2035651502555967488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105583682883133737",
+        "created_at": "2026-10-01T09:00:44.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105583682883133737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwqpuLkg8L",
+              "end": 43,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+              "media_key": "3_2105583658178596864",
+              "start": 20,
+              "url": "https://t.co/fwqpuLkg8L"
+            },
+            {
+              "display_url": "pic.x.com/fwqpuLkg8L",
+              "end": 43,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+              "media_key": "3_2105583658187030528",
+              "start": 20,
+              "url": "https://t.co/fwqpuLkg8L"
+            },
+            {
+              "display_url": "pic.x.com/fwqpuLkg8L",
+              "end": 43,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2105583682883133737/photo/1",
+              "media_key": "3_2105583658153472000",
+              "start": 20,
+              "url": "https://t.co/fwqpuLkg8L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105583682883133737",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105583658178596864"
+          },
+          {
+            "media_key": "3_2105583658187030528"
+          },
+          {
+            "media_key": "3_2105583658153472000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下置顶，求帮转互of呀！我爱你们 https://t.co/fwqpuLkg8L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2105613502283207080",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2103158764249706520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 581,
+          "following_count": 468,
+          "like_count": 23592,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T09:36:52.000Z",
+        "description": "重抑重焦｜生理女心理女｜友跨 |复学中\n音游吃｜二游｜同类互of会回5201314｜fkmt赤开激洁拒同担拒一切我是完全单机人看到相关的会发病割手跳楼",
+        "id": "2035651502555967488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105606190441152623",
+        "name": "一般男人",
+        "pinned_tweet_id": "2105583682883133737",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035651502555967488/1789010189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104891691044052992/ciJOVjFs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 136,
+          "like_count": 284,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "AkagiAme1921",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

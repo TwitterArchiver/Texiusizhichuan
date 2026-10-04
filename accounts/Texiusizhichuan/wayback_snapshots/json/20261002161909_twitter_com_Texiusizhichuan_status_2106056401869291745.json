@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2059475041126055936",
+    "conversation_id": "2106044471741948097",
+    "created_at": "2026-10-02T16:19:09.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T17:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106056401869291745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2080648472345419776",
+          "start": 0,
+          "username": "wei_kun913"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106056401869291745",
+    "in_reply_to_user_id": "2080648472345419776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106056333686686208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wei_kun913 支持"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2106044471741948097",
+        "created_at": "2026-10-02T16:19:09.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106056401869291745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2080648472345419776",
+              "start": 0,
+              "username": "wei_kun913"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106056401869291745",
+        "in_reply_to_user_id": "2080648472345419776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106056333686686208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wei_kun913 支持"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080648472345419776",
+        "conversation_id": "2106044471741948097",
+        "created_at": "2026-10-02T16:18:53.000Z",
+        "display_text_range": [
+          17,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T17:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106056333686686208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Texiusizhichuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106056333686686208",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106044471741948097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Texiusizhichuan 硬抄死水机制，然后尾兽化联动做的一坨，我的评价是不如玩死水😤当时我就攻击这玩意碎片不如开放一比一兑换死水碎片得了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2106056401869291745",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2103158764249706520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1789920539",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101334094059814912/fBA5vzo__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 473,
+          "like_count": 23610,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T13:38:10.000Z",
+        "description": "僕はウェイです!君のアホな友達🥰\n\n（还有我其实是中专生，别拿大专攻击我我还配不上😱）",
+        "id": "2080648472345419776",
+        "is_identity_verified": false,
+        "location": "亚洲",
+        "most_recent_tweet_id": "2106056333686686208",
+        "name": "ウェイくん🍞&🌹",
+        "pinned_tweet_id": "2098114780829786382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080648472345419776/1788774584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092831117015654400/qcO8pvKq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 78,
+          "like_count": 8526,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "wei_kun913",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

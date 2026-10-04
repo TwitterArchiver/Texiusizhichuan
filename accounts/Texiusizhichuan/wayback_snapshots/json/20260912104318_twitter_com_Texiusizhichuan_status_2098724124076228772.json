@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098724118241878016"
+      ]
+    },
+    "author_id": "2059475041126055936",
+    "conversation_id": "2098724124076228772",
+    "created_at": "2026-09-12T10:43:18.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T11:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098724124076228772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wAGVgFY2l8",
+          "end": 49,
+          "expanded_url": "https://x.com/Texiusizhichuan/status/2098724124076228772/photo/1",
+          "media_key": "3_2098724118241878016",
+          "start": 26,
+          "url": "https://t.co/wAGVgFY2l8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098724124076228772",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098724118241878016"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "诶我QQ群咋不进人了，和我互关的喜欢聊天的都进群欧 https://t.co/wAGVgFY2l8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2098724118241878016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAqd01aIAAK_pb.jpg",
+        "width": 1682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098724118241878016"
+          ]
+        },
+        "author_id": "2059475041126055936",
+        "conversation_id": "2098724124076228772",
+        "created_at": "2026-09-12T10:43:18.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098724124076228772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wAGVgFY2l8",
+              "end": 49,
+              "expanded_url": "https://x.com/Texiusizhichuan/status/2098724124076228772/photo/1",
+              "media_key": "3_2098724118241878016",
+              "start": 26,
+              "url": "https://t.co/wAGVgFY2l8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098724124076228772",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098724118241878016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶我QQ群咋不进人了，和我互关的喜欢聊天的都进群欧 https://t.co/wAGVgFY2l8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "摆脱生活的枷锁，就算被命运捉弄\n友跨，不od，不自割，各种人都可以来找我聊天加聊天方式，（除了机器人和恶心人）高强度刷推，全天在线",
+        "id": "2059475041126055936",
+        "is_identity_verified": false,
+        "location": "在哪都行",
+        "most_recent_tweet_id": "2098724124076228772",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2094017247044084095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059475041126055936/1788811582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084432177123717120/4n6tGQgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 428,
+          "like_count": 23339,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1423
+        },
+        "url": "",
+        "username": "Texiusizhichuan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
